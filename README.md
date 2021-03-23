@@ -1,6 +1,8 @@
 # Flexbox Challenge: New Yorker Remake
 This challenge centers on creating layouts using flexbox. Remember that, when possible, you put layout rules on the parent item (the only thing that might go on a child item is something like width in this exercise). For the purposes of this exercise we will focus on implementing one breakpoint (i.e. default mobile design with one media query). No HTML needs to be modified.
 
+*This exercise can be completed with a partner*
+
 In this exercise you will:
 - Practice breaking layouts down into smaller component pieces that each need their own layouts.
 - Nest flexbox layouts into other flexbox layouts.
@@ -18,4 +20,5 @@ This layout is complex it has 3 different modules that need to be implemented us
 - The social media icons should be in an equally spaced horizontal row on all screen sizes.
 
 ### Show your work
-Rather than submitting on Blackboard and making your site live you will show your instructor or TA your completed work in a browser and in Visual Studio code. Also be prepared to show that your code is valid.
+- On Blackboard submit your styles.css file and screenshots demonstrating that you have valid code.
+- In class show your instructor or TA your completed work in a browser and in Visual Studio code. Also be prepared to show that your code is valid.
